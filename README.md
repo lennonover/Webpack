@@ -14,6 +14,7 @@ gulp mock server
 gulp test
 
 ### 基于这些目标定义如下工程结构：
+```plain
 .
 ├── package.json                 
 ├── README.md                    
@@ -53,6 +54,7 @@ gulp test
 ├── vendor
 │   └── bootstrap
 └── └── jquery
+```
 ### 安装基础依赖
 #### react 相关
 ```plain
